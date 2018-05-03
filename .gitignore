@@ -92,3 +92,12 @@ ENV/
 .gitignore
 features.avi
 features.avi
+
+hdf/*
+
+*.csv
+*.json
+*.mp4
+*.gif
+
+data/*
